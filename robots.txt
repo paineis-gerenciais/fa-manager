@@ -1,0 +1,3 @@
+# Fase de teste (D4): retirar este arquivo ao fim da fase, por decisão do usuário, em nova publicação aprovada.
+User-agent: *
+Disallow: /
