@@ -6,4 +6,4 @@ Jogo de gerenciamento de futebol americano no navegador, com partidas narradas l
 - **Dados fictícios.** Times, jogadores, liga e competições são fictícios. A semelhança de alguns nomes com pessoas ou organizações reais é proposital e não indica vínculo, licença nem apoio.
 - Licença dos dados da liga: [LICENCA-DADOS.md](LICENCA-DADOS.md).
 
-Este repositório contém só a versão publicada (arquivos gerados). Versão 0.8.0.
+Este repositório contém só a versão publicada (arquivos gerados). Versão 0.8.1.
